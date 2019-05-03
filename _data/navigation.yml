@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About"
+    url: /about
+  - title: "Offensive Security"
+    url: /offensive
+  - title: "Defensive Security"
+    url: /defensive
+  - title: "Blog Archive"
+    url: /blog-archive
